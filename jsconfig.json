@@ -1,0 +1,23 @@
+{
+    "compilerOptions": {
+        "target": "es2020",
+        "module": "es2020",
+        "moduleResolution": "node",
+        "checkJs": true,
+        "allowJs": true,
+        "baseUrl": ".",
+        "paths": {
+            "*": [
+                "node_modules/*"
+            ]
+        },
+        "types": [
+            "node",
+            "electron"
+        ]
+    },
+    "include": [
+        "**/*",
+        "src/global.d.ts"
+    ]
+}

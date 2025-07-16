@@ -1,0 +1,20 @@
+:root {
+    --primary-color: #24222F;
+    --secondary-color: #2D2A3F;
+    --accent-color: #353246;
+    --secondary-accent-color: #1a085b;
+    --background-color: #2E303C;
+    --text-color: #FFFFFF;
+    --text-secondary-color: #F1EEF5;
+    --warning-color: #ab5300;
+    --bulma-body-background-color: var(--background-color);
+    --success-color: #075832;
+    --success-secondary-color: #36b67c;
+    --soft-critical-color: #fb0c54;
+}
+
+.card {
+    padding: 15px;
+    margin: 20px;
+    background-color: var(--primary-color);
+}
