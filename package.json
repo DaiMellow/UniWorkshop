@@ -1,7 +1,7 @@
 {
   "name": "uniworkshop",
   "private": true,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "main": "electron-main.js",
   "scripts": {
@@ -69,5 +69,5 @@
   "description": "UniWorkshop.exe",
   "keywords": [],
   "author": "Golden",
-  "license": "ISC"
+  "license": "SEE LICENSE IN LICENSE.txt"
 }
