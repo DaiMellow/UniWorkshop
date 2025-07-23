@@ -1,6 +1,6 @@
 # UniWorkshop
 
-<img src="https://github.com/user-attachments/assets/379228b1-6854-4004-a55c-696753cf28df" alt="UniWorkshop Icon" width="256"/>
+<img src="https://github.com/user-attachments/assets/1659616b-711c-44dc-9319-1598696c96a8" alt="UniWorkshop Icon" width="256"/>
 
 > **UniWorkshop** is a cross‑platform mod manager that lets you browse, install, and update Steam Workshop mods for games you own *outside* of Steam – no Steam license for the game required.
 
@@ -22,7 +22,7 @@
 
 | Mod Browser                                                                                      | Profile Manager                                                                              |
 | ------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------- |
-| ![Mod Previews](https://github.com/user-attachments/assets/6fe5cd7f-f16c-407c-8eb5-fdec35e3ffdf) | ![Profiles](https://github.com/user-attachments/assets/66ad324d-e492-43b2-91fd-135455f7d9b5) |
+| ![Mod Previews](https://github.com/user-attachments/assets/cc2c084b-121f-421b-91a4-83175fde3b2d) | ![Profiles](https://github.com/user-attachments/assets/d43c6cc3-828f-4bc7-92b0-52cbd3b257ab) |
 
 ## 🚀 Getting Started
 
